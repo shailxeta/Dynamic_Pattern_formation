@@ -14,9 +14,7 @@ This program is same for all three NXT's. Each NXT has a name in variable my_nam
 
 SHAPES to be formed :
 1) Triangle
-
 2) Line
-
 3) Circle
 
 
@@ -26,7 +24,5 @@ NOTE : Python image server is also included with this code.
 Project Submitted By:
 
 Shailesh Prajapati (p.shailesh)
-
 Avinash Kumar   (avinash.kumar)
-
 Diganta Baidhya (d.baishya)
